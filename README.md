@@ -17,4 +17,4 @@ Android Developer with 1 year of mobile app development experience. I specialize
 
 ## 📫 Contact
 - Email: svyatoslavparahin22@gmail.com
-- Telegram: @parakhin_svyatoslav_2003
+- Telegram: @[svyatik60rus](https://t.me/svyatoslav60rus)
