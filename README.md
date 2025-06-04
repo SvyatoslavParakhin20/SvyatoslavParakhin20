@@ -1,20 +1,22 @@
 # 👋 Hi, I'm Svyatoslav!
 
-## 👨‍💻 About me
-Android Developer with 1 year of mobile app development experience. I specialize in Kotlin application development using modern development practices.
+## 👨‍💻 About Me 
+Android Developer with 1+ years of experience building mobile apps using Kotlin and modern development practices.
 
-## 🚀 Current Project
-**SkillCinema** is a project that provides users with the ability to rate movies using ratings from the Movie Search API. The platform includes functions for searching, creating a list of favorites and tracking watched movies, which makes interaction with movies more convenient and personalized.
+## 🔹 Featured Project
+**[SkillCinema](https://github.com/SvyatoslavParakhin20/SkillCinema)**  
+Movie rating app with:
+- Intelligent search via Movie API  
+- Personalized watchlists  
+- Viewing history tracker
 
-## 🛠 Technical stack
-- Kotlin, Java
-- Android SDK, Android Studio
-- RESTful APIs
-- Firebase
-- RxJava, Coroutines
-- MVVM, Clean Architecture
-- Git
+## 🛠 Technical Stack
+**Core**: Kotlin, Java, Android SDK  
+**Architecture**: MVVM, Clean Architecture  
+**Async**: Coroutines, RxJava  
+**Backend**: RESTful APIs, Firebase  
+**Tools**: Git, Android Studio
 
-## 📫 Contact
-- Email: svyatoslavparahin22@gmail.com
-- Telegram: @[svyatik60rus](https://t.me/svyatoslav60rus)
+## 📫 Connect with Me
+- 📧 <svyatoslavparahin22@gmail.com>  
+- 📱 [Telegram](https://t.me/svyatoslav60rus)  
