@@ -18,5 +18,5 @@ Movie rating app with:
 **Tools**: Git, Android Studio
 
 ## 📫 Connect with Me
-- 📧 <svyatoslavparahin22@gmail.com>  
-- 📱 [Telegram](https://t.me/svyatoslav60rus)  
+- 📧 <svyatoslav.parahin@inbox.com>  
+- 📱 [Telegram](https://t.me/svyat60)  
