@@ -10,7 +10,7 @@ Android developer. Пишу на Kotlin, делаю приложения под 
 
 ## Featured project
 
-**SkillCinema** — приложение для поиска фильмов, оценок и ведения списка просмотренного.
+**[SkillCinema](https://github.com/SvyatoslavParakhin20/SkillCinema)** — приложение для поиска фильмов, оценок и ведения списка просмотренного.
 Работает в связке с Leaks (это часть той же системы, не отдельное приложение).
 
 ## Contact
